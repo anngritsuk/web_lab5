@@ -8,7 +8,7 @@ env:
   NODE_VERSION: 18
   PORT: 4000
   STAGING_URL: https://web-lab5-staging.onrender.com
-  RENDER_STAGING_HOOK: https://api.render.com/deploy/srv-d54vkjq4d50c739kfbcg?key=A3GO59A5CW0
+  RENDER_STAGING_HOOK: https://api.render.com/deploy/srv-d58relje5dus73e4huvg?key=XT6hSS8qu14
   PROD_URL: https://web-lab5-prod.onrender.com
   RENDER_PROD_HOOK: https://api.render.com/deploy/srv-d55108er433s73damr5g?key=yvikoR4By70
 
