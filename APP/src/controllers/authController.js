@@ -133,6 +133,7 @@ async function refresh(req, res) {
   // console.log("2. req.cookies?.refreshToken:", req.cookies?.refreshToken);
   // console.log("3. req.headers.cookie:", req.headers.cookie); // raw строка
   // console.log("=====================");
+
   const token = req.cookies?.refreshToken || req.body?.refreshToken;
   if (!token) return res.status(401).json({ message: "No refresh token" });
 
