@@ -23,7 +23,7 @@ describe("Auth E2E Tests (Staging)", () => {
     password1 = "e2epass123";
 
     const res = await axios.post(
-      `${BASE_URL}/auth/register`,
+      `${BASE_URL}/auth/`,
       { username, password },
       { httpsAgent: agent }
     );
