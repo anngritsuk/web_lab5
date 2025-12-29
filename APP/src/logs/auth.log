@@ -575,3 +575,22 @@
 2025-12-29 01:23:16 WARN: refresh_reuse_or_invalid
 2025-12-29 01:23:17 WARN: refresh_reuse_or_invalid
 2025-12-29 01:23:40 INFO: logout
+2025-12-29 16:33:11 INFO: MongoDB connected
+2025-12-29 16:33:11 INFO: Server started on port 4000
+2025-12-29 16:40:33 INFO: MongoDB connected
+2025-12-29 16:50:46 INFO: register_success
+2025-12-29 16:51:02 INFO: login_fail_no_user
+2025-12-29 16:51:50 INFO: login_success
+2025-12-29 16:52:20 INFO: refresh_error
+2025-12-29 16:54:59 INFO: refresh_error
+2025-12-29 16:55:48 INFO: refresh_error
+2025-12-29 16:56:05 INFO: refresh_error
+2025-12-29 16:56:10 INFO: login_success
+2025-12-29 16:57:05 INFO: refresh_success
+2025-12-29 17:45:54 INFO: register_success
+2025-12-29 17:46:06 INFO: login_success
+2025-12-29 17:46:30 INFO: refresh_error
+2025-12-29 17:47:02 INFO: refresh_error
+2025-12-29 17:47:19 INFO: login_success
+2025-12-29 17:47:45 INFO: refresh_error
+2025-12-29 17:48:35 INFO: refresh_error
