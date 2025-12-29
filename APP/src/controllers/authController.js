@@ -43,7 +43,7 @@ async function register(req, res) {
     logger.info("register_success", { username });
     authSuccess.inc();
 
-    res.status(201).json({ message: "Registered 11" });
+    res.status(201).json({ message: "Registered" });
   } catch (err) {
     logger.error("register_error", { err: err.message });
     res.status(500).json({ message: "Server error" });
