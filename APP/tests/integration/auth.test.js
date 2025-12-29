@@ -86,7 +86,7 @@ describe("Auth Integration Tests", () => {
       });
 
       expect(res.status).toBe(400);
-      expect(res.body).toHaveProperty("message", "User exist1");
+      expect(res.body).toHaveProperty("message", "User exist111");
     });
   });
 
