@@ -102,7 +102,6 @@ describe("Auth Controller - Unit Tests", () => {
 
   describe("login", () => {
     test("should login successfully", async () => {
-      // Arrange
       const mockUser = {
         _id: "123",
         username: "test",
